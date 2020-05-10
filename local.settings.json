@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "DriverAzure": "ODBC Driver 17 for SQL Server",
+    "ServerBdAzure": "servidorlib-16.database.windows.net",
+    "DataBaseAzure": "Libros",
+    "UserNameBdAzure": "Luisa",
+    "PassWordBdAzure": "300836Luchis",
+    "SQL_datos": "SELECT * FROM datos"
+  }
+}
+
